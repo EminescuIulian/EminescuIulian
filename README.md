@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EminescuIulian
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning: c++,python,java
-- 📫 How to reach me: -Email: iulian_dic010@yahoo.com
+- 📫 How to reach me: -Email: ioandiculescu010@gmail.com
                        -Phone: 0784788556
 <!---
 EminescuIulian/EminescuIulian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
